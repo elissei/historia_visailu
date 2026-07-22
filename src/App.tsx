@@ -7,8 +7,6 @@ type Question = {
   question: string;
   options: string[];
   correct: string;
-  imageUrl?: string;
-  imageAlt?: string;
   explanation?: string;
 };
 
@@ -23,11 +21,10 @@ type Result = {
 const LOCAL_STORAGE_KEY = 'historia-visailu-tulokset';
 const forbiddenNames = ['pippeli', 'pillu', 'paska', 'perse', 'kyrpä', 'huora'];
 
-const subjectMeta: Record<Subject, { label: string; description: string; image: string }> = {
+const subjectMeta: Record<Subject, { label: string; description: string }> = {
   history: {
     label: 'Historia',
-    description: 'Luokat 6–7: Suomen ja maailman historiaa. Nyt pelataan vain historian kysymyksillä.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Bookshelf.jpg'
+    description: 'Luokat 6–7: Suomen ja maailman historiaa. Nyt pelataan vain historian kysymyksillä.'
   }
 };
 
@@ -153,7 +150,6 @@ function App() {
 
       {step === 'start' && (
         <main className="card">
-          <img className="topic-image" src={subjectMeta[subject].image} alt="Aiheeseen liittyvä kuva" />
           <section className="panel">
             <h2>Rekisteröidy pelaajaksi</h2>
             <label>
@@ -184,17 +180,7 @@ function App() {
             <div className="score-badge">Pisteet: {score}</div>
           </div>
 
-          {question.imageUrl && (
-            <div className="question-image-wrapper">
-              <img
-                className="question-image"
-                src={question.imageUrl}
-                alt={question.imageAlt ?? 'Aiheeseen liittyvä kuva'}
-              />
-            </div>
-          )}
-
-          <div className="answer-grid">
+              <div className="answer-grid">
             {question.options.map((option) => {
               const isCorrect = showAnswer && option === correctAnswer;
               const isWrong = showAnswer && option === selected && option !== correctAnswer;
