@@ -1,0 +1,808 @@
+{
+  "history": {
+    "6": [
+      {
+        "id": "hist_6_01",
+        "question": "Mikä oli kivikauden ihmiselle tärkein materiaali työkalujen ja aseiden valmistuksessa?",
+        "options": ["Kivi (sekä luu ja puu)", "Pronssi", "Rauta", "Muovi"],
+        "correct": "Kivi (sekä luu ja puu)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flint_axes.jpg/800px-Flint_axes.jpg",
+        "imageAlt": "Kivikautisia piikivikirveitä",
+        "explanation": "Kivikaudella metallien työstöä ei vielä osattu, joten kovat kivilajit (kuten piikivi ja kvartsi) olivat parhaat materiaalit teräville työkaluille."
+      },
+      {
+        "id": "hist_6_02",
+        "question": "Miten ihmiset hankkivat ravintonsa vanhemmalla kivikaudella ennen maanviljelyn keksimistä?",
+        "options": ["Metsästämällä, kalastamalla ja kasveja keräämällä", "Ostamalla ruokaa toreilta", "Kasvattamalla pelkästään vehnää", "Viljelemällä perunaa"],
+        "correct": "Metsästämällä, kalastamalla ja kasveja keräämällä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lascaux_painting.jpg/800px-Lascaux_painting.jpg",
+        "imageAlt": "Kivikautinen luolamaalaus metsästettävästä eläimestä",
+        "explanation": "Ennen maanviljelyä ihmiset olivat nomadisia keräilijä-metsästäjiä, jotka muuttivat saaliseläinten ja satokausien perässä."
+      },
+      {
+        "id": "hist_6_03",
+        "question": "Mitä suurta muutosta ihmisten elämässä kutsutaan maanviljelyn alkamiseksi (neoliittiseksi vallankumoukseksi)?",
+        "options": ["Ihmiset alkoivat asettua paikoilleen ja perustaa kyliä", "Ihmiset alkoivat asua luolissa", "Kaikki metsästys loppui välittömästi", "Ihmiset alkoivat käyttää tietokoneita"],
+        "correct": "Ihmiset alkoivat asettua paikoilleen ja perustaa kyliä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cucuteni_trypillia_agriculture.jpg/800px-Cucuteni_trypillia_agriculture.jpg",
+        "imageAlt": "Varhaista maanviljelyä ja kyläelämää",
+        "explanation": "Maanviljelyn myötä ruokaa voitiin tuottaa yhdessä paikassa, mikä mahdollisti kiinteiden kylien ja myöhemmin kaupunkien synnyn."
+      },
+      {
+        "id": "hist_6_04",
+        "question": "Mistä kahdesta metallista pronssi valmistetaan sulattamalla ja sekoittamalla ne keskenään?",
+        "options": ["Kuparista ja tinasta", "Raudasta ja kullasta", "Hopeasta ja lyijystä", "Alumiinista ja sinkistä"],
+        "correct": "Kuparista ja tinasta",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bronze_Age_axes.jpg/800px-Bronze_Age_axes.jpg",
+        "imageAlt": "Pronssikauden kirveitä ja työkaluja",
+        "explanation": "Pronssi on metalliseos. Kun pehmeään kupariin sekoitetaan hieman tinaa, saadaan huomattavasti kovempaa ja kestävämpää pronssia."
+      },
+      {
+        "id": "hist_6_05",
+        "question": "Miksi rauta syrjäytti pronssin työkalujen valmistuksessa rautakauden alkaessa?",
+        "options": ["Rauta oli kestävämpää ja rautamalmia löytyi helpommin", "Pronssi loppui kokonaan maapallolta", "Rauta oli pehmeämpää kuin pronssi", "Rautaa oli helpompi muotoilla ilman tulen kuumuutta"],
+        "correct": "Rauta oli kestävämpää ja rautamalmia löytyi helpommin",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iron_age_tools.jpg/800px-Iron_age_tools.jpg",
+        "imageAlt": "Rautakautisia työkaluja ja aseita",
+        "explanation": "Rautamalmia oli saatavilla laajalti (Suomessakin), ja raudasta valmistetut työkalut olivat erittäin kestäviä."
+      },
+      {
+        "id": "hist_6_06",
+        "question": "Mikä oli nimitys Antiikin Kreikan itsehallinnollisille kaupunkivaltioille, kuten Ateenalle ja Spartalle?",
+        "options": ["Polis", "Imperiumi", "Kunta", "Lääni"],
+        "correct": "Polis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/800px-The_Parthenon_in_Athens.jpg",
+        "imageAlt": "Ateenan Akropolis ja Parthenonin temppeli",
+        "explanation": "Antiikin Kreikka ei ollut yhtenäinen valtio, vaan koostui sadoista itsenäisistä kaupunkivaltioista eli poliksista."
+      },
+      {
+        "id": "hist_6_07",
+        "question": "Mitä hallintomuotoa kehitettiin Antiikin Ateenassa, jossa vapaat miespuoliset kansalaiset pääsivät äänestämään päätöksistä?",
+        "options": ["Demokratiaa (kansanvaltaa)", "Keisarikuntaa", "Sotilasdiktatuuria", "Monarkiaa"],
+        "correct": "Demokratiaa (kansanvaltaa)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pnyx_Athens_2019.jpg/800px-Pnyx_Athens_2019.jpg",
+        "imageAlt": "Pnyx-kukkula Ateenassa, jossa kansankokoukset pidettiin",
+        "explanation": "Ateenassa syntyi suora demokratia, jossa kansalaiset kokoontuivat äänestämään laeista ja sotapäätöksistä."
+      },
+      {
+        "id": "hist_6_08",
+        "question": "Mikä mahtava neuvosto teki tärkeitä päätöksiä Antiikin Rooman tasavallassa ja koostui rikkaista sukuisista miehistä?",
+        "options": ["Senaatti", "Eduskunta", "Kaupunginvaltuusto", "Ministeriö"],
+        "correct": "Senaatti",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Roman_Forum_2019.jpg/800px-Roman_Forum_2019.jpg",
+        "imageAlt": "Rooman foorumi, jossa senaatti kokoontui",
+        "explanation": "Rooman senaatti hallitsi valtio-omaisuutta, ulkopolitiikkaa ja valvoi virkamiesten toimintaa tasavallan aikana."
+      },
+      {
+        "id": "hist_6_09",
+        "question": "Mihin tarkoitukseen kuuluisa Rooman Kolosseum-amfiteatteri pääasiassa rakennettiin?",
+        "options": ["Gladiaattoritaisteluita ja yleisöviihdettä varten", "Keisarin asuinpalatsiksi", "Suureksi viljavarastoksi", "Kirjastoksi"],
+        "correct": "Gladiaattoritaisteluita ja yleisöviihdettä varten",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome%2C_Italy_-_20070314.jpg/800px-Colosseum_in_Rome%2C_Italy_-_20070314.jpg",
+        "imageAlt": "Rooman Kolosseum ulkoa päin",
+        "explanation": "Kolosseumille mahtui kymmeniä tuhansia katsojia seuraamaan gladiaattorinäytöksiä ja eläintaisteluita."
+      },
+      {
+        "id": "hist_6_10",
+        "question": "Minkä suuren valtakunnan luhistumista vuonna 476 jKr. pidetään usein Euroopan keskiajan alkukohtana?",
+        "options": ["Länsi-Rooman keisarikunnan", "Egyptin faaraoiden valtakunnan", "Kiinan keisarikunnan", "Aleksanteri Suuren valtakunnan"],
+        "correct": "Länsi-Rooman keisarikunnan",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Thomas_Cole_The_Course_of_Empire_Destruction_1836.jpg/800px-Thomas_Cole_The_Course_of_Empire_Destruction_1836.jpg",
+        "imageAlt": "Taiteilijan näkemys Rooman tuhosta",
+        "explanation": "Länsi-Rooman luhistuminen päätti antiikin aikakauden Euroopassa ja käynnisti tuhatvuotisen keskiajan."
+      },
+      {
+        "id": "hist_6_11",
+        "question": "Mikä oli keskiajan yhteiskuntajärjestelmä, jossa maaomistukseen perustui herrojen ja alamaisten välinen suhde?",
+        "options": ["Läänityslaitos eli feodalismi", "Teollinen järjestelmä", "Tasavalta", "Kansandemokratia"],
+        "correct": "Läänityslaitos eli feodalismi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bayeux_Tapestry_WillelmDux.jpg/800px-Bayeux_Tapestry_WillelmDux.jpg",
+        "imageAlt": "Keskiaikaista kuvakudosta",
+        "explanation": "Feodalismissa kuningas tai hallitsija antoi maata läänitykseksi aatelisille vastineeksi sotilaallisesta palveluksesta ja uskollisuudesta."
+      },
+      {
+        "id": "hist_6_12",
+        "question": "Mikä oli keskiaikaisen ritarin tärkein tehtävä ja velvollisuus yhteiskunnassa?",
+        "options": ["Palvella sotilaana ratsain ja suojella herraansa", "Harjoittaa kansainvälistä kauppaa", "Kirjoittaa historiallisia kirjoja", "Viljellä maata talonpoikien kanssa"],
+        "correct": "Palvella sotilaana ratsain ja suojella herraansa",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Armor_and_sword_at_Ch%C3%A2teau_de_Pau.jpg/800px-Armor_and_sword_at_Ch%C3%A2teau_de_Pau.jpg",
+        "imageAlt": "Ritarin haarniska ja miekka",
+        "explanation": "Ritarit olivat raskaasti aseistettuja ja panssaroituja ratsusotilaita, jotka noudattivat ritarillisuuden ihanteita."
+      },
+      {
+        "id": "hist_6_13",
+        "question": "Mikä keskeinen laitos huolehti keskiajalla koulutuksesta, sairaanhoidosta ja kirkoista Euroopassa?",
+        "options": ["Katolinen kirkko ja luostarit", "Kylien kauppaseurat", "Kuninkaalliset pankit", "Kyläkoulut"],
+        "correct": "Katolinen kirkko ja luostarit",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Abbey_of_Senanque_July_2008.jpg/800px-Abbey_of_Senanque_July_2008.jpg",
+        "imageAlt": "Keskiaikainen luostari Ranskassa",
+        "explanation": "Luostarit olivat keskiajan tieteen, lääkinnän ja kirjallisuuden keskuksia, joissa munkit ja nunnat kopioivat kirjoja käsin."
+      },
+      {
+        "id": "hist_6_14",
+        "question": "Mitä tarkoitettiin keskiajan kaupungeissa toimineilla killoilla?",
+        "options": ["Käsityöläisten ja kauppiaiden ammattijärjestöjä", "Sotilaiden hyökkäysjoukkoja", "Kirkon kuororyhmiä", "Kylänvanhimpien neuvostoja"],
+        "correct": "Käsityöläisten ja kauppiaiden ammattijärjestöjä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guildhall_London_2006.jpg/800px-Guildhall_London_2006.jpg",
+        "imageAlt": "Kiltatalo",
+        "explanation": "Killat valvoivat tuotteiden laatua, hintoja ja ammatin oppimista (kisälli- ja mestarijärjestelmä)."
+      },
+      {
+        "id": "hist_6_15",
+        "question": "Mikä tuhoisa kulkutauti tappoi suuren osan Euroopan väestöstä 1300-luvun puolivälissä?",
+        "options": ["Musta surma eli rutto", "Influenssa", "Isorokko", "Malaria"],
+        "correct": "Musta surma eli rutto",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Toggenburg_Bible_-_Plague_victims.jpg/800px-Toggenburg_Bible_-_Plague_victims.jpg",
+        "imageAlt": "Keskiaikainen maalaus ruttotautia sairastavista",
+        "explanation": "Musta surma levisi kirppujen ja rottien välityksellä ja hävitti jopa kolmasosan Euroopan väestöstä."
+      },
+      {
+        "id": "hist_6_16",
+        "question": "Minkä maan valtapiiriin ja kulttuuripiiriin Suomi liittyi keskiajalla ristiretkien ja ruotsalaisvallan myötä?",
+        "options": ["Ruotsin", "Saksan", "Tanskan", "Puolan"],
+        "correct": "Ruotsin",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Turku_Castle_2014.jpg/800px-Turku_Castle_2014.jpg",
+        "imageAlt": "Turun linna",
+        "explanation": "Suomesta tuli osa Ruotsin kuningaskuntaa keskiajalla, mikä toi maahan länsimaisen katolisen kulttuurin, hallinnon ja lakijärjestelmän."
+      },
+      {
+        "id": "hist_6_17",
+        "question": "Mikä oli keskiajan Suomen merkittävin kaupunki ja hallinnollinen keskus?",
+        "options": ["Turku", "Helsinki", "Tampere", "Oulu"],
+        "correct": "Turku",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Abo_domkyrka.jpg/800px-Abo_domkyrka.jpg",
+        "imageAlt": "Turun tuomiokirkko",
+        "explanation": "Turku oli Suomen ensimmäinen kaupunki, hiippakunnan keskus ja Turun linnan myötä valtakunnan itäinen tukikohta."
+      },
+      {
+        "id": "hist_6_18",
+        "question": "Mikä oli Hansaliitto?",
+        "options": ["Pohjois-Euroopan kaupunkien kauppaliitto", "Saksalaisten ritarien ritarikunta", "Ruotsin kuningaskunnan armeija", "Kirkon luostariliitto"],
+        "correct": "Pohjois-Euroopan kaupunkien kauppaliitto",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hanseatic_League_map.png/800px-Hanseatic_League_map.png",
+        "imageAlt": "Hansaliiton vaikutusalueen kartta",
+        "explanation": "Hansaliitto hallitsi Itämeren ja Pohjanmeren kauppaa keskiajalla, ja sen jäsenenä oli myös suomalaisia kaupunkeja."
+      },
+      {
+        "id": "hist_6_19",
+        "question": "Kuka keksi 1400-luvulla irtokirjakkeita käyttävän painokoneen, joka mullisti tiedon leviämisen?",
+        "options": ["Johannes Gutenberg", "Martti Luther", "Leonardo da Vinci", "Kristoffer Kolumbus"],
+        "correct": "Johannes Gutenberg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gutenberg_press.jpg/800px-Gutenberg_press.jpg",
+        "imageAlt": "Gutenbergin painokone",
+        "explanation": "Painokoneen ansiosta kirjoja pystyttiin valmistamaan nopeasti ja halvalla, mikä lisäsi lukutaitoa ja tiedon leviämistä."
+      },
+      {
+        "id": "hist_6_20",
+        "question": "Mitä kulttuurista heräämistä ja antiikin ihannointia kuvaavaa ajanjaksoa kutsutaan, joka seurasi keskiaikaa?",
+        "options": ["Renessanssi", "Barokki", "Valistus", "Teollinen vallankumous"],
+        "correct": "Renessanssi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa,_by_Leonardo_da_vinci,_from_C2RMF_retouched.jpg/800px-Mona_Lisa,_by_Leonardo_da_vinci,_from_C2RMF_retouched.jpg",
+        "imageAlt": "Leonardo da Vincin Mona Lisa",
+        "explanation": "Renessanssi alkoi Italiassa 1300-luvulla ja toi mukanaan uudenlaisen kiinnostuksen taiteeseen, tieteeseen ja ihmisen omiin kykyihin."
+      },
+      {
+        "id": "hist_6_31",
+        "question": "Mikä sotilaallinen konflikti johti siihen, että Suomi liitettiin osaksi Venäjää autonomisena alueena vuonna 1809?",
+        "options": ["Suomen sota", "Ensimmäinen maailmansota", "Suuri Pohjan sota", "Kolmikymmenvuotinen sota"],
+        "correct": "Suomen sota",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Porvoon_valtiopäivät_1809.jpg/800px-Porvoon_valtiopäivät_1809.jpg",
+        "imageAlt": "Porvoon valtiopäivät 1809",
+        "explanation": "Ruotsin ja Venäjän välisen Suomen sodan (1808–1809) seurauksena Ruotsi joutui luovuttamaan Suomen alueet Venäjän keisarikunnalle."
+      },
+      {
+        "id": "hist_6_32",
+        "question": "Missä kaupungissa järjestettiin maamapäivät vuonna 1809, joissa keisari Aleksanteri I vahvisti Suomen hallintomuodon ja oikeudet?",
+        "options": ["Porvoo", "Helsinki", "Turku", "Vaasa"],
+        "correct": "Porvoo",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Porvoon_tuomiokirkko_2012.JPG/800px-Porvoon_tuomiokirkko_2012.JPG",
+        "imageAlt": "Porvoon tuomiokirkko",
+        "explanation": "Porvoon valtiopäivillä keisari antoi vakuutuksen, että Suomen usko, lait ja oikeudet säilytetään ennallaan."
+      },
+      {
+        "id": "hist_6_33",
+        "question": "Kuka 1800-luvun keskeinen suomalainen vaikuttaja patisti suomalaisia kehittämään omaa kansallista sivistystään ja talouttaan?",
+        "options": ["J. V. Snellman", "Elias Lönnrot", "Zacharias Topelius", "J. L. Runeberg"],
+        "correct": "J. V. Snellman",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Johan_Vilhelm_Snellman_by_B._A._Godenhjelm.jpg/800px-Johan_Vilhelm_Snellman_by_B._A._Godenhjelm.jpg",
+        "imageAlt": "J. V. Snellman",
+        "explanation": "Snellman oli merkittävä valistaja ja filosofi, joka korosti suomen kielen nostamista sivistyskieleksi."
+      },
+      {
+        "id": "hist_6_34",
+        "question": "Kuka kiersi kansan keskuudessa keräämässä vanhoja runoja, joista hän rakensi kansalliseepoksen?",
+        "options": ["Elias Lönnrot", "Mikael Agricola", "Aleksis Kivi", "Minna Canth"],
+        "correct": "Elias Lönnrot",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elias_L%C3%B6nnrot_by_Per_Reinhold_Taskinen.jpg/800px-Elias_L%C3%B6nnrot_by_Per_Reinhold_Taskinen.jpg",
+        "imageAlt": "Elias Lönnrot",
+        "explanation": "Lönnrot teki pitkiä runonkeruumatkoja ja kokosi suomalaisen taruston yhteen Kalevalaksi."
+      },
+      {
+        "id": "hist_6_35",
+        "question": "Mikä on se Elias Lönnrotin kokoama teos, jolla oli valtava merkitys suomalaisen identiteetin rakentumiselle?",
+        "options": ["Kalevala", "Seitsemän veljestä", "Maamme-laulu", "Vänrikki Stoolin tarinat"],
+        "correct": "Kalevala",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kalevala_1849_title_page.jpg/800px-Kalevala_1849_title_page.jpg",
+        "imageAlt": "Kalevalan kansisivu",
+        "explanation": "Vuonna 1835 ensimmäisen kerran julkaistu Kalevala nosti suomalaisen mytologian maailmankartalle."
+      },
+      {
+        "id": "hist_6_36",
+        "question": "Kuka kirjoitti laulun 'Maamme' sanat sekä isänmaallisen runokokoelman Vänrikki Stoolin tarinat?",
+        "options": ["Johan Ludvig Runeberg", "Aleksis Kivi", "Eino Leino", "Zacharias Topelius"],
+        "correct": "Johan Ludvig Runeberg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johan_Ludvig_Runeberg_by_Fredrik_Boije_%28cropped%29.jpg/800px-Johan_Ludvig_Runeberg_by_Fredrik_Boije_%28cropped%29.jpg",
+        "imageAlt": "Johan Ludvig Runeberg",
+        "explanation": "Runeberg tunnettiin Suomen kansallisrunoilijana, jonka teokset vahvistivat isänmaanrakkautta."
+      },
+      {
+        "id": "hist_6_37",
+        "question": "Kuka kirjoitti suomenkielisen kaunokirjallisuuden mestariteoksen 'Seitsemän veljestä'?",
+        "options": ["Aleksis Kivi", "Minna Canth", "J. V. Snellman", "Maria Jotuni"],
+        "correct": "Aleksis Kivi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aleksis_Kivi_statue_Helsinki.jpg/800px-Aleksis_Kivi_statue_Helsinki.jpg",
+        "imageAlt": "Aleksis Kiven patsas",
+        "explanation": "Aleksis Kivi loi teoksellaan pohjan suomenkieliselle romaanikirjallisuudelle."
+      },
+      {
+        "id": "hist_6_38",
+        "question": "Kuka suomalainen kirjailija ja yhteiskunnallinen keskustelija puolusti näytelmissään naisten oikeuksia ja heikommassa asemassa olevia?",
+        "options": ["Minna Canth", "Maria Jotuni", "Hella Wuolijoki", "Maila Talvio"],
+        "correct": "Minna Canth",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Minna_Canth.jpg/800px-Minna_Canth.jpg",
+        "imageAlt": "Minna Canth",
+        "explanation": "Kuopiosta käsin vaikuttanut Canth otti teoksissaan rohkeasti kantaa aikansa epäkohtiin."
+      },
+      {
+        "id": "hist_6_39",
+        "question": "Mitä tarkoitetaan imperialismilla 1800-luvun lopun poliittisessa historiassa?",
+        "options": ["Eurooppalaisten maiden siirtomaiden valloitusta ja laajentumista Afrikkaan ja Aasiaan", "Pienten valtioiden liittoutumista yhteen", "Maailmanlaajuista rauhanliikettä", "Teollisuuskoneiden vientiä avaruuteen"],
+        "correct": "Eurooppalaisten maiden siirtomaiden valloitusta ja laajentumista Afrikkaan ja Aasiaan",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Scramble_for_Africa,1914.png/800px-Scramble_for_Africa,1914.png",
+        "imageAlt": "Afrikan kartta siirtomaakaudella",
+        "explanation": "Suurvallat kilpailivat raaka-aineista ja markkinoista alistamalla haltuunsa valtavia alueita muilta mantereilta."
+      },
+      {
+        "id": "hist_6_40",
+        "question": "Mikä rauhansopimus solmittiin syksyllä 1809, mikä vahvisti Suomen siirtymisen osaksi Venäjää?",
+        "options": ["Haminan rauha", "Uudenkaupungin rauha", "Turun rauha", "Pähkinäsaaren rauha"],
+        "correct": "Haminan rauha",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fredrikshamn_Peace_Treaty.jpg/800px-Fredrikshamn_Peace_Treaty.jpg",
+        "imageAlt": "Haminan rauha",
+        "explanation": "Haminan rauhassa Ruotsi virallisesti luopui Suomesta ja alue liitettiin Venäjän keisarikuntaan."
+      },
+      {
+        "id": "hist_6_antiquity_01",
+        "question": "Mikä merkittävä keksintö tehtiin muinaisessa Mesopotamiassa noin 3500 vuotta ennen ajanlaskun alkua, mikä helpotti tavaroiden kuljetusta ja vaunujen rakentamista?",
+        "options": ["Pyörä", "Höyrykone", "Kompassi", "Paperi"],
+        "correct": "Pyörä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chariot_Ur_BM_120385.jpg/800px-Chariot_Ur_BM_120385.jpg",
+        "imageAlt": "Muinainen sotavaunu ja pyörä",
+        "explanation": "Pyörän keksintö oli mullistava askel ihmiskunnan historiassa, sillä se tehosti kaupankäyntiä ja liikkumista huomattavasti."
+      },
+      {
+        "id": "hist_6_antiquity_02",
+        "question": "Mitkä valtavat kivirakennelmat rakennettiin muinaiseen Egyptiin faaraoiden haudoiksi ja monumenteiksi?",
+        "options": ["Pyramidit", "Colosseum", "Parthenon", "Akropolis"],
+        "correct": "Pyramidit",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/800px-Kheops-Pyramid.jpg",
+        "imageAlt": "Gizan pyramidit Egyptissä",
+        "explanation": "Egyptiläiset pyramidit ovat säilyneet tuhansia vuosia osoituksena muinaisen kansan hämmästyttävästä arkkitehtuurista ja rakennustaidosta."
+      },
+      {
+        "id": "hist_6_antiquity_03",
+        "question": "Missä antiikin maassa järjestettiin ensimmäiset suuret urheilukilpailut jumalien kunniaksi vuonna 776 eaa.?",
+        "options": ["Kreikka", "Rooma", "Egypti", "Persia"],
+        "correct": "Kreikka",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Olympia_Stadion_01.jpg/800px-Olympia_Stadion_01.jpg",
+        "imageAlt": "Olympian stadionin rauniot",
+        "explanation": "Antiikin kreikkalaiset aloittivat olympiakisat Olympian pyhäkössä, ja niissä miteltiin urheilun ohella myös taidoissa ja taiteessa."
+      },
+      {
+        "id": "hist_6_antiquity_04",
+        "question": "Mikä hallintomuoto kehitettiin antiikin Ateenassa, jossa kansalaiset saivat itse osallistua yhteisiin päätöksiin äänestämällä?",
+        "options": ["Demokratia", "Yksinvalta", "Feodalismi", "Sotilasdiktatuuri"],
+        "correct": "Demokratia",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Acropolis_of_Athens.jpg/800px-The_Acropolis_of_Athens.jpg",
+        "imageAlt": "Ateenan Akropolis",
+        "explanation": "Ateenalainen demokratia oli varhainen malli kansanvallasta, jossa vapaat miehet kokoontuivat päättämään asioista yhdessä."
+      },
+      {
+        "id": "hist_6_antiquity_05",
+        "question": "Mihin tarkoitukseen roomalaiset rakensivat valtavia akvedukteja eli vesijohtoja ympäri valtakuntaansa?",
+        "options": ["Puhtaan veden kuljettamiseen kaupunkeihin kaukaisista lähteistä", "Sota-aseiksi vihollisia vastaan", "Teatteriesitysten ja näytelmien pitämiseen", "Viljan turvalliseen varastointiin"],
+        "correct": "Puhtaan veden kuljettamiseen kaupunkeihin kaukaisista lähteistä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pont_du_Gard_Oct_2007.jpg/800px-Pont_du_Gard_Oct_2007.jpg",
+        "imageAlt": "Pont du Gard -akvedukti Ranskassa",
+        "explanation": "Akveduktit toivat vettä suihkulähteisiin, kylpylöihin ja kotitalouksiin, mikä paransi merkittävästi kaupunkilaisten hygieniaa."
+      },
+      {
+        "id": "hist_6_antiquity_06",
+        "question": "Mikä kuuluisa roomalainen kaupunki hautautui kokonaan tulivuori Vesuviuksen purkaustuhkan alle vuonna 79 jaa.?",
+        "options": ["Pompeii", "Rooma", "Ateena", "Karthago"],
+        "correct": "Pompeii",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pompeii_-_Stabian_Baths_-_Peristyle.jpg/800px-Pompeii_-_Stabian_Baths_-_Peristyle.jpg",
+        "imageAlt": "Pompeijin rauniot",
+        "explanation": "Vesuviuksen purkaus säilytti Pompeiin paksun tuhkan alla koskemattomana, tarjoten nykytutkijoille ainutlaatuisen ikkuna roomalaiseen arkeen."
+      },
+      {
+        "id": "hist_6_antiquity_07",
+        "question": "Mitkä rakennusaineet yhdistämällä roomalaiset loivat erittäin kestävää betonia, jonka ansiosta monet rakennukset ovat säilyneet tähän päivään asti?",
+        "options": ["Tulivuoren tuhka, kalkki ja kivet", "Puu, savi ja heinä", "Pelkkä sula rauta ja kupari", "Lasi ja muovi"],
+        "correct": "Tulivuoren tuhka, kalkki ja kivet",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/800px-Colosseo_2020.jpg",
+        "imageAlt": "Colosseum Roomassa",
+        "explanation": "Roomalainen betoni oli niin lujaa, että se kovettui jopa meriveden alla vulkaanisen tuhkan ansiosta."
+      },
+      {
+        "id": "hist_6_antiquity_08",
+        "question": "Mikä oli antiikin ajan suurin ja tunnetuin tiedon keskus, jossa sijaitsi kuuluisa suuri kirjasto?",
+        "options": ["Aleksandria", "Babylon", "Sparta", "Troija"],
+        "correct": "Aleksandria",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bibliotheca_Alexandrina_east_view.jpg/800px-Bibliotheca_Alexandrina_east_view.jpg",
+        "imageAlt": "Moderni Aleksandrian kirjasto Egyptissä",
+        "explanation": "Egyptissä sijainnut Aleksandria keräsi yhteen aikansa oppineita ja kirjallisuutta kaikkialta silloisesta maailmasta."
+      },
+      {
+        "id": "hist_6_middle_01",
+        "question": "Kuka oli keskiaikainen linnoissa asunut ritariluokan sotilas, joka noudatti tarkkoja kunnia- ja käytössääntöjä?",
+        "options": ["Ritari", "Talonpoika", "Munkki", "Porvari"],
+        "correct": "Ritari",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Knights_fighting_BL_Royal_16_G_VIII.jpg/800px-Knights_fighting_BL_Royal_16_G_VIII.jpg",
+        "imageAlt": "Keskiaikaisia ritareita taistelussa",
+        "explanation": "Ritarit olivat panssaroituja ratsusotilaita, joilla oli keskeinen rooli keskiajan feodaaliyhteiskunnassa ja puolustuksessa."
+      },
+      {
+        "id": "hist_6_middle_02",
+        "question": "Mikä keskiaikainen laitos toimi tieteen ja oppimisen keitaana, jossa munkit kopioivat kirjoja käsin?",
+        "options": ["Luostari", "Raatihuone", "Käsityöläisten kilta", "Markkinatori"],
+        "correct": "Luostari",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Abbaye_de_Fontenay_1.jpg/800px-Abbaye_de_Fontenay_1.jpg",
+        "imageAlt": "Keskiaikainen luostari Ranskassa",
+        "explanation": "Ennen kirjapainon keksimistä luostarit pitivät yllä lukutaitoa ja pelastivat jälkipolville antiikin tieteellisiä teoksia."
+      },
+      {
+        "id": "hist_6_middle_03",
+        "question": "Millä matalapohjaisilla puulaivoilla viikingit tekivät rohkeita tutkimus- ja purjehdusretkiä pitkin jokia ja meriä?",
+        "options": ["Sotapursilla (Drakkar / pitkälaiva)", "Höyrylaivoilla", "Sukellusveneillä", "Raskailla rahtialuksilla"],
+        "correct": "Sotapursilla (Drakkar / pitkälaiva)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oseberg_ship_museum_oslo_2005.jpg/800px-Oseberg_ship_museum_oslo_2005.jpg",
+        "imageAlt": "Osebergin viikinkilaiva Oslossa",
+        "explanation": "Viikinkien pitkälaivat olivat ketteriä, sillä ne pystyivät liikkumaan sekä avomerellä että matalissa jokivesissä."
+      },
+      {
+        "id": "hist_6_middle_04",
+        "question": "Mitkä ammattilaisten yhteenliittymät valvoivat tuotteiden laatua ja kaupankäyntiä keskiajan kaupungeissa?",
+        "options": ["Killat", "Klaanit", "Säädyt", "Seurakunnat"],
+        "correct": "Killat",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Grand_Place_Brussels.jpg/800px-Grand_Place_Brussels.jpg",
+        "imageAlt": "Keskiaikaisia kiltojen taloja Brysselissä",
+        "explanation": "Killat kouluttivat uusia käsityöläisiä kisälleistä mestareiksi ja huolehtivat ammattikunnan yhteisistä eduista."
+      },
+      {
+        "id": "hist_6_middle_05",
+        "question": "Mikä tärkeä mekaaninen laite alkoi yleistyä keskiajan lopulla kirkkojen ja kaupunkien torneissa ajan seuraamiseen?",
+        "options": ["Mekanisoitu kello", "Aurinkokello", "Digitaalinen näyttö", "Pienoisradiolaite"],
+        "correct": "Mekanisoitu kello",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Prague_astronomical_clock_2017.jpg/800px-Prague_astronomical_clock_2017.jpg",
+        "imageAlt": "Prahan astronominen kello",
+        "explanation": "Mekaaninen kello muutti radikaalisti ihmisten elämänrytmiä, kun aikaa voitiin mitata tarkasti riippumatta auringonpaisteesta."
+      },
+      {
+        "id": "hist_6_middle_06",
+        "question": "Mikä oli keskiajan loppupuolella suosittu kirkkoarkkitehtuurin tyyli, jolle olivat tyypillisiä suipot holvit ja isot lasimaalaukset?",
+        "options": ["Goottilainen tyyli", "Antiikin pylväsarkkitehtuuri", "Kivikauden pyörömuotoilu", "Moderni funktionalismi"],
+        "correct": "Goottilainen tyyli",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notre-Dame_de_Paris_2013-07-24.jpg/800px-Notre-Dame_de_Paris_2013-07-24.jpg",
+        "imageAlt": "Notre-Damen katedraali Pariisissa",
+        "explanation": "Goottilaiset katedraalit kurkottivat korkeuksiin ja niiden suuret värilliset lasi-ikkunat loivat saliin taivaallisen valon."
+      },
+      {
+        "id": "hist_6_middle_07",
+        "question": "Mikä oli Aasian ja Euroopan välinen kuuluisa kauppareitistö, jota pitkin kuljetettiin silkkii, mausteita ja uusia keksintöjä?",
+        "options": ["Silkkitie", "Kuninkaantie", "Meritie", "Pohjoinen napareitti"],
+        "correct": "Silkkitie",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Silk_route.jpg/800px-Silk_route.jpg",
+        "imageAlt": "Silkkitien kartta",
+        "explanation": "Silkkitie mahdollisti paitsi tavaroiden vaihtamisen myös sen, että kulttuurivaikutteet ja keksinnöt levisivät maanosasta toiseen."
+      },
+      {
+        "id": "hist_6_middle_08",
+        "question": "Mikä tuhoisa kulkutauti levisi Euroopassa 1300-luvun puolivälissä ja muutti rajusti yhteiskuntaa ja työvoiman määrää?",
+        "options": ["Rutto (Musta surma)", "Isorokko", "Influenssa", "Malaria"],
+        "correct": "Rutto (Musta surma)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/800px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+        "imageAlt": "Maalaus keskiajan ruttoajasta",
+        "explanation": "Musta surma oli historian tuhoisimpia epidemioita, jonka seurauksena työvoimapula paransi monien eloon jääneiden asemaa."
+      },
+      {
+        "id": "hist_6_ren_01",
+        "question": "Kuka keksi irtokirjaimeen perustuvan kirjapainon 1400-luvulla, mikä teki kirjojen valmistuksesta nopeaa ja edullista?",
+        "options": ["Johannes Gutenberg", "Leonardo da Vinci", "Mikael Agricola", "Martti Luther"],
+        "correct": "Johannes Gutenberg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gutenberg_press.jpg/800px-Gutenberg_press.jpg",
+        "imageAlt": "Gutenbergin kirjapainomalli",
+        "explanation": "Kirjapainotaidon myötä tieto ja kirjoitetut tarinat levisivät kansan keskuuteen ennennäkemättömällä vauhdilla."
+      },
+      {
+        "id": "hist_6_ren_02",
+        "question": "Kuka renessanssin nerokas monilahjakkuus maalasi Mona Lisan ja suunnitteli tarkkoja piirustuksia tulevaisuuden lentolaitteista?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Donatello"],
+        "correct": "Leonardo da Vinci",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg/800px-Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+        "imageAlt": "Mona Lisa",
+        "explanation": "Leonardo da Vinci tutki luontoa, fysiikkaa ja ihmisen anatomiaa ennakkoluulottomasti yhdistäen taiteen ja tieteen."
+      },
+      {
+        "id": "hist_6_ren_03",
+        "question": "Mikä tähtitieteellinen oivallus syntyi renessanssin aikana, kun osoitettiin Maan kiertävän Aurinkoa eikä päinvastoin?",
+        "options": ["Aurinkokeskeinen maailmankuva", "Maakeskeinen maailmankuva", "Avaruuden pysähtyminen", "Kuun kiertoradan lakkaaminen"],
+        "correct": "Aurinkokeskeinen maailmankuva",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Copernicus_system.jpg/800px-Copernicus_system.jpg",
+        "imageAlt": "Kopernikaaninen aurinkokeskeinen järjestelmä",
+        "explanation": "Nikolaus Kopernikus ja Galileo Galilei muuttivat tieteen suuntaa todistamalla, että Maapallo on vain yksi planeetta muiden joukossa."
+      },
+      {
+        "id": "hist_6_ren_04",
+        "question": "Mikä tärkeä merenkulun työkalu auttoi löytöretkeilijöitä pitämään kurssinsa avomerellä säästä riippumatta?",
+        "options": ["Kompassi", "Kaukoputki", "Sekstantti", "Lämpömittari"],
+        "correct": "Kompassi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Magnetic_compass_needle_and_dial.jpg/800px-Magnetic_compass_needle_and_dial.jpg",
+        "imageAlt": "Magneettinen kompassi",
+        "explanation": "Magneettisen neulan ansiosta merenkulkijat saattoivat luotettavasti navigoida myös silloin, kun taivas oli pilvessä."
+      },
+      {
+        "id": "hist_6_ren_05",
+        "question": "Kuka englantilainen renessanssiajan nero kirjoitti maailmankuulut näytelmät 'Romeo ja Julia' sekä 'Hamlet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Dante Alighieri"],
+        "correct": "William Shakespeare",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/800px-Shakespeare.jpg",
+        "imageAlt": "William Shakespeare",
+        "explanation": "Shakespeare on historian arvostetuimpia näytelmäkirjailijoita, jonka luomat tarinat ja hahmot elävät yhä vahvoina."
+      },
+      {
+        "id": "hist_6_ren_06",
+        "question": "Mikä kulttuurin ja tieteen 'uudelleensyntymisen' aikakausi alkoi 1400-luvulla Italiasta ja levisi koko Eurooppaan?",
+        "options": ["Renessanssi", "Keskiaika", "Romantiikka", "Valistus"],
+        "correct": "Renessanssi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_School_of_Athens_by_Raffaello_Sanzio.jpg/800px-The_School_of_Athens_by_Raffaello_Sanzio.jpg",
+        "imageAlt": "Ateenan koulu -maalaus",
+        "explanation": "Renessanssin aikana ihannoitiin antiikin ihanteita, ihmisen luovuutta, taidetta ja itsenäistä ajattelua."
+      },
+      {
+        "id": "hist_6_ind_01",
+        "question": "Mikä mullistava voimanlähde tehostui 1700-luvun lopulla ja käynnisti teollisen vallankumouksen?",
+        "options": ["Höyrykone", "Sähkömoottori", "Polttomoottori", "Tuuliturbiini"],
+        "correct": "Höyrykone",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Watt_steam_engine_edinburgh.jpg/800px-Watt_steam_engine_edinburgh.jpg",
+        "imageAlt": "James Wattin höyrykone",
+        "explanation": "Höyrykone mahdollisti tehtaiden koneellisen massatuotannon ja korvasi ihmisten ja eläinten raskaan fyysisen työn."
+      },
+      {
+        "id": "hist_6_ind_02",
+        "question": "Mikä nopea kulkuväline yhdisti kaupunkeja ja teollisuusalueita, mullistaen matkustamisen ja tavaroiden kuljetuksen maalla?",
+        "options": ["Höyryveturi ja rautatie", "Moottoriajoneuvo", "Maantiepyörä", "Purjelaiva"],
+        "correct": "Höyryveturi ja rautatie",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Locomotion_No._1_Darlington_Railway_Station.jpg/800px-Locomotion_No._1_Darlington_Railway_Station.jpg",
+        "imageAlt": "Varhainen höyryveturi",
+        "explanation": "Rautatiet toivat vauhtia kaupankäyntiin ja mahdollistivat sen, että tavarat ja ihmiset siirtyivät nopeasti paikasta toiseen."
+      },
+      {
+        "id": "hist_6_ind_03",
+        "question": "Mihin ihmiset alkoivat muuttaa sankoin joukoin maaseudulta teollisen vallankumouksen myötä?",
+        "options": ["Kaupunkeihin tehtaiden lähelle", "Erämaahan asumaan", "Kaukaisille saarille", "Maanalaisiin tunneleihin"],
+        "correct": "Kaupunkeihin tehtaiden lähelle",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/An_iron_foundry_by_Thomas_Rowlandson.jpg/800px-An_iron_foundry_by_Thomas_Rowlandson.jpg",
+        "imageAlt": "Teollinen tehdas ja työläisiä",
+        "explanation": "Kaupungistuminen kiihtyi, kun uudet tehtaat tarvitsivat valtavasti työntekijöitä tuotantolaitostensa ympärille."
+      },
+      {
+        "id": "hist_6_ind_04",
+        "question": "Kuka keksijä toi markkinoille käytännöllisen hehkulampun, joka toi sähkövalon koteihin ja teollisuuteen?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Guglielmo Marconi", "Louis Daguerre"],
+        "correct": "Thomas Edison",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Thomas_Edison2.jpg/800px-Thomas_Edison2.jpg",
+        "imageAlt": "Thomas Edison",
+        "explanation": "Sähkövalo pidensi ihmisten hereilläoloaikaa ja vapautti toiminnan luonnonvalon asettamista rajoista."
+      },
+      {
+        "id": "hist_6_ind_05",
+        "question": "Mikä sähkömagneettinen keksintö mahdollisti nopeat pikaviestit pitkien matkojen päähän ennen puhelimen keksimistä?",
+        "options": ["Lennätin", "Radio", "Televisio", "Gramofoni"],
+        "correct": "Lennätin",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Morse_telegraph_key_and_sounder.jpg/800px-Morse_telegraph_key_and_sounder.jpg",
+        "imageAlt": "Lennätinlaitteisto",
+        "explanation": "Lennätin ja Morse-aakkoset nopeuttivat tiedonvälitystä valtavasti, kun uutiset saatiin maasta toiseen sekunneissa."
+      },
+      {
+        "id": "hist_6_ind_06",
+        "question": "Mikä varhainen valokuvauksen menetelmä kehitettiin 1800-luvulla todellisuuden tarkkaan ikuistamiseen?",
+        "options": ["Dagerrotyypia", "Maalaustaide", "Piirustuslevy", "Röntgenkuvaus"],
+        "correct": "Dagerrotyypia",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Louis_Daguerre_by_Jean-Baptiste_Sabatier-Blot.jpg/800px-Louis_Daguerre_by_Jean-Baptiste_Sabatier-Blot.jpg",
+        "imageAlt": "Louis Daguerre ja varhainen kamera",
+        "explanation": "Valokuvaus mullisti tavan tallentaa historiaa, perheitä ja ympäröivää maailmaa pysyvästi kuvan muodossa."
+      },
+      {
+        "id": "hist_6_ind_07",
+        "question": "Mikä lihasvoimalla liikutettava kahden pyörän kulkuväline keksittiin 1800-luvulla yleiseen liikkumiseen ja vapaa-aikaan?",
+        "options": ["Polkupyörä", "Potkulauta", "Moottoripyörä", "Purjelentokone"],
+        "correct": "Polkupyörä",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bicycle_evolution.jpg/800px-Bicycle_evolution.jpg",
+        "imageAlt": "Polkupyörän kehitys",
+        "explanation": "Polkupyörästä tuli nopeasti suosittu, kätevä ja edullinen kulkuväline tavalliselle kansalle."
+      },
+      {
+        "id": "hist_6_ind_08",
+        "question": "Mikä kuumalla ilmalla toimiva ilmailun esimuoto keksittiin 1700-luvun lopulla, jolla päästiin ensi kerran nousemaan taivaalle?",
+        "options": ["Kuumailmapallo", "Reaktiolentokone", "Avaruussukkula", "Helikopteri"],
+        "correct": "Kuumailmapallo",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Montgolfier_balloon_1783.jpg/800px-Montgolfier_balloon_1783.jpg",
+        "imageAlt": "Montgolfierin kuumailmapallo 1783",
+        "explanation": "Kuumailmapallon lennot herättivät valtavaa ihmetystä ja antoivat sysäyksen ihmiskunnan pitkäaikaiselle lentohaaveelle."
+      }
+    ],
+    "7": [
+      {
+        "id": "hist_7_01",
+        "question": "Mikä tapahtuma liittyy usein keskiajan alkuun Euroopassa?",
+        "options": ["Länsi-Rooman keisarikunnan tuho", "Teollinen vallankumous", "Ranskan vallankumous", "Ensimmäinen maailmansota"],
+        "correct": "Länsi-Rooman keisarikunnan tuho",
+        "explanation": "Länsi-Rooman valtion hajoaminen 400-luvulla pidetään usein keskiajan syntymisen symbolina Euroopassa."
+      },
+      {
+        "id": "hist_7_02",
+        "question": "Mikä piirsi suuren osan keskiajan Euroopan rajauksista?",
+        "options": ["Feodalismin hallintajärjestelmä", "Tietokoneet", "Ilmastonmuutos", "Avaruustutkimus"],
+        "correct": "Feodalismin hallintajärjestelmä",
+        "explanation": "Feodalismin yhteiskunta perustui maaomistukseen ja paikallisten herrojen valtaan, mikä muodosti keskiajan poliittisen rakenteen."
+      }
+    ],
+    "8": [
+      {
+        "id": "hist_8_01",
+        "question": "Mikä oli merkittävä muutos yhteiskunnassa teollisen vallankumouksen myötä?",
+        "options": ["Ihmiset alkoivat työskennellä tehtaissa", "He palasivat maaseudulle asumaan", "Kivikausi alkoi", "Kirjoitettiin ensimmäiset historialliset kertomukset"],
+        "correct": "Ihmiset alkoivat työskennellä tehtaissa",
+        "explanation": "Teollinen vallankumous siirsi monia töitä maataloudesta teollisuuteen ja kasvatti kaupunkien väestöä."
+      }
+    ],
+    "9": [
+      {
+        "id": "hist_9_01",
+        "question": "Mikä termi kuvaa kylmän sodan aikakautta?",
+        "options": ["Neuvostoliiton ja Yhdysvaltojen jännitteitä", "Sotaa Napoleonin kanssa", "Rooman valtakunnan laajenemista", "Rauta-aikaa"],
+        "correct": "Neuvostoliiton ja Yhdysvaltojen jännitteitä",
+        "explanation": "Kylmä sota oli 1900-luvun jälkipuoliskon geopoliittinen jännitystila, jossa valtiot kilpailivat ilman suoraa sotaa."
+      }
+    ]
+  },
+  "geography": {
+    "6": [
+      {
+        "id": "geo_6_01",
+        "question": "Mikä on maapallon suurin valtameri?",
+        "options": ["Tyyni valtameri", "Atlantin valtameri", "Intian valtameri", "Pohjoinen jäämeri"],
+        "correct": "Tyyni valtameri",
+        "explanation": "Tyyni valtameri on maailman suurin valtameri, kattaa kolmanneksen maapallon pinta-alasta."
+      }
+    ],
+    "7": [
+      {
+        "id": "geo_7_01",
+        "question": "Mikä väri kartalla kuvaa tavallisesti vettä?",
+        "options": ["Sininen", "Vihreä", "Punainen", "Keltainen"],
+        "correct": "Sininen",
+        "explanation": "Kartalla vesi, kuten meret ja järvet, merkitään usein sinisellä värillä."
+      }
+    ],
+    "8": [
+      {
+        "id": "geo_8_01",
+        "question": "Mitä kartan mittakaava kertoo?",
+        "options": ["Etäisyyden todellisen ja kartalla olevan suhteen", "Kartan värin", "Ilmaston tyypin", "Paikan korkeuden"],
+        "correct": "Etäisyyden todellisen ja kartalla olevan suhteen",
+        "explanation": "Mittakaava kertoo kuinka monta metriä tai kilometriä vastaa yhtä senttimetriä kartalla."
+      }
+    ],
+    "9": [
+      {
+        "id": "geo_9_01",
+        "question": "Mikä tekijä vaikuttaa voimakkaasti alueen ilmastoon?",
+        "options": ["Leveyspiiri", "Kielen käyttö", "Valuutta", "Rautatien olemassaolo"],
+        "correct": "Leveyspiiri",
+        "explanation": "Leveyspiiri vaikuttaa auringon säteilyn määrään ja siten alueen lämpötilaan ja ilmastoon."
+      }
+    ]
+  },
+  "mathematics": {
+    "6": [
+      {
+        "id": "math_6_01",
+        "question": "Paljonko 7 + 5 on?",
+        "options": ["12", "10", "13", "11"],
+        "correct": "12",
+        "explanation": "7 plus 5 on 12."
+      }
+    ],
+    "7": [
+      {
+        "id": "math_7_01",
+        "question": "Mikä on murtoluvun 1/2 suuruus desimaalina?",
+        "options": ["0,5", "0,2", "2", "1,5"],
+        "correct": "0,5",
+        "explanation": "Yksi puolikas on desimaalina 0,5."
+      }
+    ],
+    "8": [
+      {
+        "id": "math_8_01",
+        "question": "Ratkaise x yhtälöstä x + 4 = 11.",
+        "options": ["7", "15", "5", "11"],
+        "correct": "7",
+        "explanation": "Kun x + 4 = 11, x = 11 - 4 = 7."
+      }
+    ],
+    "9": [
+      {
+        "id": "math_9_01",
+        "question": "Mikä on hypotenuusan pituus suorakulmaisessa kolmiossa, jos kateetit ovat 3 ja 4?",
+        "options": ["5", "6", "4", "7"],
+        "correct": "5",
+        "explanation": "Pythagoraan lauseen mukaan hypotenuusa on √(3² + 4²) = 5."
+      }
+    ]
+  },
+  "finnish": {
+    "6": [
+      {
+        "id": "fin_6_01",
+        "question": "Mikä sana esittää kysymyksen suomen kielessä?",
+        "options": ["Mikä", "On", "Siis", "Ja"],
+        "correct": "Mikä",
+        "explanation": "Kysymyslauseessa käytetään usein sanaa 'mikä' esittämään kysytyn asian luonteen."
+      }
+    ],
+    "7": [
+      {
+        "id": "fin_7_01",
+        "question": "Mikä on oikein kirjoitettu yhdyssana?",
+        "options": ["aurinkokello", "aurinko kello", "aurinko-kello", "aurinko kello"],
+        "correct": "aurinkokello",
+        "explanation": "Suomen kielessä yhdyssanat kirjoitetaan yleensä yhteen ilman välilyöntiä."
+      }
+    ],
+    "8": [
+      {
+        "id": "fin_8_01",
+        "question": "Mikä tekstilaji on uutinen?",
+        "options": ["Uutinen", "Runo", "Essee", "Kirje"],
+        "correct": "Uutinen",
+        "explanation": "Uutinen on informatiivinen teksti, joka kertoo ajankohtaisista tapahtumista."
+      }
+    ],
+    "9": [
+      {
+        "id": "fin_9_01",
+        "question": "Mikä on synonyymi sanalle 'nopea'?",
+        "options": ["Vikkelä", "Hidas", "Kokoinen", "Paksu"],
+        "correct": "Vikkelä",
+        "explanation": "'Vikkelä' tarkoittaa samaa kuin 'nopea' eli nopeasti liikkuva tai toimiva."
+      }
+    ]
+  },
+  "biology": {
+    "6": [
+      {
+        "id": "bio_6_01",
+        "question": "Mistä kasvit saavat energiansa?",
+        "options": ["Auringosta", "Maan sisältä", "Tuulesta", "Kivistä"],
+        "correct": "Auringosta",
+        "explanation": "Kasvit tekevät fotosynteesin avulla energiaa auringon valosta."
+      }
+    ],
+    "7": [
+      {
+        "id": "bio_7_01",
+        "question": "Mikä ainesosa sisältää solun perintöaineksen?",
+        "options": ["DNA", "Glukoosi", "Vesi", "Rauta"],
+        "correct": "DNA",
+        "explanation": "DNA sisältää solun perintöaineksen eli tiedon, joka ohjaa soluja."
+      }
+    ],
+    "8": [
+      {
+        "id": "bio_8_01",
+        "question": "Mikä prosessi tuottaa kasveille sokeria?",
+        "options": ["Fotosynteesi", "Hengitys", "Ruokailu", "Reproduktio"],
+        "correct": "Fotosynteesi",
+        "explanation": "Fotosynteesissä kasvit muuntavat auringon valon energiaksi ja tekevät sokeria hiilidioksidista ja vedestä."
+      }
+    ],
+    "9": [
+      {
+        "id": "bio_9_01",
+        "question": "Mitä evoluutio tarkoittaa?",
+        "options": ["Lajien muuttumista ajan kuluessa", "Sääolosuhteiden vaihtelua", "Eläinten lemmikkejä", "Elimistön aineenvaihduntaa"],
+        "correct": "Lajien muuttumista ajan kuluessa",
+        "explanation": "Evoluutio tarkoittaa, että lajien ominaisuudet muuttuvat ja kehittyvät sukupolvien aikana."
+      }
+    ]
+  },
+  "chemistry": {
+    "6": [
+      {
+        "id": "chem_6_01",
+        "question": "Mikä on veden kolme olomuotoa?",
+        "options": ["Kiinteä, neste ja kaasu", "Pelkästään neste", "Savu, liekki ja tuuli", "Puinen, metallinen ja muovinen"],
+        "correct": "Kiinteä, neste ja kaasu",
+        "explanation": "Vesi esiintyy kiinteänä (jää), nestemäisenä ja kaasuna (vesihöyry)."
+      }
+    ],
+    "7": [
+      {
+        "id": "chem_7_01",
+        "question": "Mikä on atomin pienin osanen, jolla on positiivinen varaus?",
+        "options": ["Protoni", "Elektroni", "Neutroni", "Molekyyli"],
+        "correct": "Protoni",
+        "explanation": "Protoni on atomin ytimessä oleva positiivisesti varautunut hiukkanen."
+      }
+    ],
+    "8": [
+      {
+        "id": "chem_8_01",
+        "question": "Mikä aine on emäksinen, jos sen pH-arvo on yli 7?",
+        "options": ["Ammoniakki", "Sitruunamehu", "Vesi", "Suola"],
+        "correct": "Ammoniakki",
+        "explanation": "Emäksinen aine antaa vedessä hydroksidi-ioneja ja sen pH on yli 7."
+      }
+    ],
+    "9": [
+      {
+        "id": "chem_9_01",
+        "question": "Mikä on kemiallisen reaktion tunnusmerkki?",
+        "options": ["Uusien aineiden muodostuminen", "Veden kiehuminen", "Kiven murtuminen", "Valon heijastuminen"],
+        "correct": "Uusien aineiden muodostuminen",
+        "explanation": "Kemiallisessa reaktiossa aineet muuttuvat uusiksi aineiksi."
+      }
+    ]
+  },
+  "physics": {
+    "6": [
+      {
+        "id": "phys_6_01",
+        "question": "Mikä voima saa esineet putoamaan maahan?",
+        "options": ["Painovoima", "Vetovoima", "Lentovoima", "Kitka"],
+        "correct": "Painovoima",
+        "explanation": "Painovoima vetää esineet kohti maapallon keskustaa."
+      }
+    ],
+    "7": [
+      {
+        "id": "phys_7_01",
+        "question": "Miten nopeus lasketaan?",
+        "options": ["Matka jaettuna ajalla", "Paino kertaa aika", "Aika plus matka", "Voima jaettuna painolla"],
+        "correct": "Matka jaettuna ajalla",
+        "explanation": "Nopeus kertoo, kuinka paljon matkaa kuljetaan tietyssä ajassa."
+      }
+    ],
+    "8": [
+      {
+        "id": "phys_8_01",
+        "question": "Mikä kulkee nopeammin, ääni vai valo?",
+        "options": ["Valo", "Ääni", "Ne kulkevat yhtä nopeasti", "Molemmat pysähtyvät"],
+        "correct": "Valo",
+        "explanation": "Valo kulkee paljon nopeammin kuin ääni."
+      }
+    ],
+    "9": [
+      {
+        "id": "phys_9_01",
+        "question": "Mikä on sähkövirran yksikkö?",
+        "options": ["Ampeeri", "Voltti", "Watti", "Jouli"],
+        "correct": "Ampeeri",
+        "explanation": "Ampeeri on sähkövirran voimakkuuden yksikkö."
+      }
+    ]
+  }
+}
